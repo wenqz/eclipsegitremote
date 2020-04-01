@@ -1,5 +1,5 @@
 package org.jhipster.myapp;
-
+/// 123
 import org.jhipster.myapp.config.ApplicationProperties;
 import org.jhipster.myapp.config.DefaultProfileUtil;
 
